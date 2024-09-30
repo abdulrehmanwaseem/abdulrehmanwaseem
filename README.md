@@ -1,6 +1,6 @@
 <h1 align="center">Bonjor Fellas✋, I'm Abdul Rehman</h1>
 <br />
-A passionate Full Stack Developer with a deep love for coding. I've been programming since 9th grade, and my early fascination with technology has driven me to constantly learn and grow in this field.<br /><br />
+A enthusiastic Full Stack Developer with a deep love for coding. I've been programming since 9th grade, and my early fascination with technology has driven me to constantly learn and grow in this field.<br /><br />
 Currently, I'm working on a (SaaS) Shop Management System and an Accounting App, while also deepening my knowledge in System Design.<br /><br>
 Feel free to reach out to me at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdulrehman.code1@gmail.com" target="_blank">abdulrehman.code1@gmail.com</a>
 
