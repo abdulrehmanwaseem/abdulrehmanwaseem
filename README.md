@@ -1,4 +1,6 @@
-💫 About Me: Hello! I'm Abdul Rehman, a passionate Full Stack Developer
+    <h1 align="center">Bonhou Fellas✋, I'm Abdul Rehman</h1>
+    <br />
+    a passionate Full Stack Developer
     with a deep love for coding. I've been programming since 9th grade, and my
     early fascination with technology has driven me to constantly learn and grow
     in this field.<br /><br />Currently, I'm working on a SaaS Shop Management
