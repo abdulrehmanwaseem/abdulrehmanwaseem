@@ -1,8 +1,8 @@
 <h1 align="center">Bonjor Fellas✋, I'm Abdul Rehman</h1>
 <br />
 A passionate Full Stack Developer with a deep love for coding. I've been programming since 9th grade, and my early fascination with technology has driven me to constantly learn and grow in this field.<br /><br />
-Currently, I'm working on a (SaaS) Shop Management System and an Accounting App, while also deepening my knowledge in System Design.<br /><br />
-Feel free to reach out to me at [abdulrehman.code1@gmail.com](mailto:abdulrehman.code1@gmail.com).
+Currently, I'm working on a (SaaS) Shop Management System and an Accounting App, while also deepening my knowledge in System Design.<br /><br>
+Feel free to reach out to me at abdulrehman.code1@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rehman-waseem)
@@ -44,7 +44,3 @@ Feel free to reach out to me at [abdulrehman.code1@gmail.com](mailto:abdulrehman
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdulrehmanwaseem&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehmanwaseem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=abdulrehmanwaseem&icon=0&color=0)](https://visitcount.itsvg.in)
