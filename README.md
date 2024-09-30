@@ -2,7 +2,7 @@
 <br />
 A passionate Full Stack Developer with a deep love for coding. I've been programming since 9th grade, and my early fascination with technology has driven me to constantly learn and grow in this field.<br /><br />
 Currently, I'm working on a (SaaS) Shop Management System and an Accounting App, while also deepening my knowledge in System Design.<br /><br>
-Feel free to reach out to me at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdulrehman.code1@gmail.com" target="_blank">Send Email</a>
+Feel free to reach out to me at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdulrehman.code1@gmail.com" target="_blank">abdulrehman.code1@gmail.com</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rehman-waseem)
@@ -42,5 +42,6 @@ Feel free to reach out to me at <a href="https://mail.google.com/mail/?view=cm&f
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdulrehmanwaseem&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdulrehmanwaseem&theme=dark&hide_border=false)<br /><br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehmanwaseem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
