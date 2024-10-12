@@ -2,7 +2,7 @@
 <br />
 A enthusiastic Full Stack Developer with a deep love for coding. I've been programming since 9th grade, and my early fascination with technology has driven me to constantly learn and grow in this field.<br /><br />
 Currently, I'm working on a (SaaS) Shop Management System and an Accounting App, while also deepening my knowledge in System Design.<br /><br>
-Feel free to reach out to me at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdulrehman.code1@gmail.com" target="_blank">abdulrehman.code1@gmail.com</a>
+Feel free to reach out to me at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdulrehman.coding@gmail.com" target="_blank">abdulrehman.coding@gmail.com</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/abdul-rehman-waseem)
