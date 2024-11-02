@@ -1,5 +1,7 @@
 <div align='center'>
+  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=I&#39;m+<Abdul_Rehman/>;Full+Stack+Developer;Programming+Since+9th+Grade;Enthusiastic+Young+Programmer)
+  
 </div>
 <br />
 A enthusiastic Full Stack Developer with a deep love for coding. I've been programming since 9th grade, and my early fascination with technology has driven me to constantly learn and grow in this field.<br /><br />
