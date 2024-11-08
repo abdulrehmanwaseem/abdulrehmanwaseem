@@ -9,7 +9,7 @@ In the future, I aim to dive into the field of Artificial Intelligence to explor
 Feel free to reach out to me at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdulrehmanwork2024@gmail.com" target="_blank">abdulrehmanwork2024@gmail.com</a>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/abdul-rehman-waseem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rehman-waseem-dev)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@AbdulRehmanWaseem)
 
 ## 💻 Tech Stack:
