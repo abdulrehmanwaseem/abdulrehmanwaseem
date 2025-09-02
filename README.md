@@ -4,7 +4,7 @@
   
 </div>
 A enthusiastic Full Stack Developer with a deep love for coding. I've been programming since 9th grade, and my early fascination with technology has driven me to constantly learn and grow in this field.<br /><br />
-Currently, I'm working on a (SaaS) Shop Management System and an Accounting App, while also deepening my knowledge in System Design.<br /><br />
+Currently, I'm working on a (SaaS) Shop Management System an Accounting App, while also deepening my knowledge in System Design.<br /><br />
 In the future, I aim to dive into the field of Artificial Intelligence to explore its vast potential and create impactful solutions.<br /><br />
 Feel free to reach out to me at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdulrehmanwork2024@gmail.com" target="_blank">abdulrehmanwork2024@gmail.com</a>
 
